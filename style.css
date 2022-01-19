@@ -1,0 +1,12 @@
+li {
+    color: red;
+}
+
+li span {
+    color: rgb(77, 44, 13);
+    font-weight: bold;
+}
+
+body {
+    background-color: violet;
+}
